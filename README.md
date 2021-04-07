@@ -9,4 +9,4 @@ These solderable boards come in multiple sizes, and can be sourced from well-reg
 Support your local businesses wherever you are. If you can't source these boards "easily", get yours printed from a local PCB manufacturer. The Eagle CAD files in this repository are for a half-breadboard sized board, but can be easily modified to suit your board's size and shape needs. 
 
 ## Hardware License
-The design files are made available under [CC BY-SA 3.0] (https://creativecommons.org/licenses/by-sa/3.0/).
+The design files are made available under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
