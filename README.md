@@ -1,6 +1,6 @@
 # Breadboard-Shaped Prototype Board
 
-<a href="http://www.adafruit.com/products/2310"><img src="Images/topview.png?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/2314"><img src="Images/bottomview.png?raw=true" width="400px"></a><br />
+<a href="https://github.com/kalyaninagaraj/Breadboard-Shaped-Perfboard/blob/main/Images/topview.png"><img src="Images/topview.png?raw=true" width="600px"></a>&nbsp; <a href="https://github.com/kalyaninagaraj/Breadboard-Shaped-Perfboard/blob/main/Images/bottomview.png"><img src="Images/bottomview.png?raw=true" width="600px"></a><br />
 
 The solderable breadboard makes for a great, and certainly more durable, alternative to perfboards. Its breadboard-like layout is also more user-friendly than both perfboards and the sturdier universal prototype boards. 
 
