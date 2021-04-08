@@ -10,3 +10,6 @@ The owner of this repository recognizes the many contributions to open-source ha
 
 ## Hardware License
 The design files are made available under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## Tags
+#Open-Source Hardware #PCB #Solderable Breadboard
