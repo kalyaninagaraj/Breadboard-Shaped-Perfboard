@@ -1,4 +1,4 @@
-# Breadboard-Shaped Prototype Board
+# Breadboard-Shaped Prototyping Board
 
 <a href="https://github.com/kalyaninagaraj/Breadboard-Shaped-Perfboard/blob/main/Images/topview.png"><img src="Images/topview.png?raw=true" width="400px"></a>&nbsp;&nbsp; <a href="https://github.com/kalyaninagaraj/Breadboard-Shaped-Perfboard/blob/main/Images/bottomview.png"><img src="Images/bottomview.png?raw=true" width="400px"></a><br />
 
