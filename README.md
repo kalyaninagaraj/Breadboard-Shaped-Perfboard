@@ -10,6 +10,9 @@ The cost of these products, though, can be prohibitively high for the average ho
 
 The Eagle CAD files in this repository are my design for a 400-point breadboard-sized board, but the dimensions and layout can be easily modified to suit your project's needs.  
 
+## Design Credit
+[@kalyaninagaraj](https://github.com/kalyaninagaraj)
+
 ## Hardware License
 The design files are made available under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
